@@ -1,0 +1,86 @@
+<DOCTYPE html>
+    <html>
+
+    <head>
+        <Title>Semantics in my Wepage</Title>
+        <link rel="stylesheet" href="c3.css">
+    </head>
+
+    <body>
+        <header>
+            <h1>
+                <center><big><b>WAVES</b></big></center>
+            </h1>
+            <nav>
+                <ul type="circle">
+                    <li><a href="#sec1">section 1</a></li>
+                    <li><a href="#sec2">section 2</a></li>
+                    <li><a href="#sec3">section 3</a></li>
+                    <li><a href="#sec4">section 4</a></li>
+                </ul>
+            </nav>
+        </header>
+        <div>
+            <section id="sec1">
+                <p><b>INTRODUCTION OF WAVES</b></p>
+                <article>
+                    A wave is a disturbance which travels outward from its source, carrying energy along with it. For
+                    example, sets up a circular ring of disturbance(up and down motion of water particles) which travels
+                    outward from the point at which the stone landed in the water (fig 1.1). This disturbance is called
+                    <b>water wave.</b>
+                    <figure><img src="wave.jpg" height="150" width="250" alt="image  not found">FIG 1.1</figure>
+                </article>
+            </section>
+            <section id="sec2">
+                <p><b>TYPES OF WAVES</b></p>
+                <article>
+                    They can be classified into two:<br>
+                    <b>Material medium;</b><br>
+                    <ul>
+                        <li>Mechanical wave e.gwater wave,sound wave</li>
+                        <li>Electromagnetic wavee.light wave,ultra-violet,radio wavee.t.c</li>
+                    </ul><br><br>
+                    <b>Direction of propagation;</b><br>
+                    <ul>
+                        <li>Transverse wave(perpendicular) e.gwater wave,light,radio waves etc.</li>
+                        <li>Longitudinal wave(parallel) e.gsound wave</li>
+                    </ul>
+                </article>
+            </section>
+            <section id="sec3">
+                <p><b>TERMS USED IN WAVE</b></p>
+                <article>
+                    <ol type="I">
+                        <li>Crest</li>
+                        <li>Trough</li>
+                        <li>Amplitude</li>
+                        <li>Wavelength</li>
+                        <li>frequency</li>
+                        <li>Period</li>
+                        <li>velocity e.t.c</li>
+                    </ol>
+                </article>
+                <figure><img src="terminologies.jpg" height="200" width="300">FIG 1.2</figure>
+            </section>
+            <section id="sec4">
+                <p><b>PROPERTIES OF WAVE</b></p>
+                <article>
+                    <ol type="I">
+                        <li>Reflection</li>
+                        <li>Refraction</li>
+                        <li>Diffraction</li>
+                        <li>Polarisation</li>
+                        <li>Interference</li>
+                    </ol>
+                </article>
+                <figure><iframe width="300" height="200"
+                        src="https://www.youtube.com/embed/No2cwALAs-I?si=otjNMFcEP1YeKVf9" title="YouTube video
+                player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+                web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></figure>
+            </section>
+        </div>
+        <footer>Get more info <a href="https://byjus.com/physics/waves/">@BYJU'S</a></footer>
+        <h2></h2>
+    </body>
+
+    </html>

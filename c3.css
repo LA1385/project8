@@ -1,0 +1,6 @@
+/*element selector*/
+body{background: linear-gradient(to bottom, red ,green 40%,blue); font}
+p{color: white;}
+
+/*group selector*/
+ul,ol{color: yellow;}
